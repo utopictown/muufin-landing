@@ -21,21 +21,21 @@ export default function Home() {
         <h3>Let music connects you</h3>
         <a href="https://twitter.com/merrveapp" target="_blank">@merrveapp</a>
       </main>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
-        <div class="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
+        <div className="firefly"></div>
     </div>
   );
 }
