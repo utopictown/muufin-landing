@@ -3,6 +3,7 @@ import { useEffect } from "react";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
+  const [lang, setLang] = useState("en");
   useEffect(() => {
     if (
       typeof window !== "undefined" &&
