@@ -85,7 +85,6 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <html lang={lang} />
         <title>Merrve - Let music connects you</title>
         <meta
           name="viewport"
