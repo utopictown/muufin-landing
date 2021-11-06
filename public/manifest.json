@@ -1,6 +1,8 @@
 {
   "name": "Merrve",
   "short_name": "Merrve",
+  "orientation": "portrait",
+  "start_url": "/",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
